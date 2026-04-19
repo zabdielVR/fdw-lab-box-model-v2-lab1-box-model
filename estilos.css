@@ -1,2 +1,16 @@
 /* Agrega tus estilos aquí */
 /* Debes crear una clase llamada mi-div */
+
+.mi-div {
+  width: 300px;
+  height: 20px;
+  padding: 20px;
+  border: 10px solid blue;
+  margin: 30;
+}
+
+/*El div tiene que tener un ancho (width) de 300px,
+ alto (height) de 200px, 
+ un relleno (padding) de 20px, 
+ un margen (margin) de 30px 
+ un borde (border) de 10px sólido y azul.
